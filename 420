@@ -1,0 +1,4 @@
+numero1 float(input("Insira o primeiro número"))
+numero2 float(input("Insira o segundo número"))
+soma numero1 nивего2
+print(f"A soma de (numerol) e (numero2) é (soma).")
